@@ -233,7 +233,6 @@ cd && cd YukiBot-MD && rm -rf Sessions/Owner && npm start
 | Comunidad (WhatsApp) | [Unirse](https://chat.whatsapp.com/E6iWpvGuJ8zJNPbN3zOr0D?mode=ems_copy_c) |
 | Soporte (Gata Dios) | [Contactar](https://wa.me/message/AIZ7TVNEI7M2P1) |
 | Soporte (Russell) | [Contactar](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) |
-| Soporte (elrebelde21) | [Contactar](https://facebook.com/elrebelde21) |
 | Discord | [Unirse](https://discord.gg/XvvmFuDcEE) |
 
 </details>
